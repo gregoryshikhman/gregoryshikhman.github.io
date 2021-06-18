@@ -1,2 +1,2 @@
-# gregoryshikhman.github.io
+# Григорий Шихман
 Мой первый сайт
