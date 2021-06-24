@@ -196,3 +196,14 @@ height:521px;
     margin-left: 100px;
 
 }
+
+.cost_calc select{
+    width: 891px;
+    height: 57px;
+   }
+
+.cost_calc h2{
+     font-size: 30px;
+    font-weight: bold;
+    margin-left: 805px;
+}
