@@ -93,17 +93,25 @@ font-weight: bold;
     margin-bottom: 23px;
 }
 
+
 .downres input{
 margin-top: 36px;
-    height: 36px;
+    height: 32px;
     font-size:15px;
     margin-left: 887px;
+    border: 2px solid #6f707e;
+    border-radius: 5px;
+    background: none;
+    background: url(../image/icon.png) no-repeat 10% 50%;
+    padding-left: 35px;
+    padding-right: 14px;
+   
 }
 
 .skills{
 height:521px;
    
-    background: url(../image/znak.jpg) no-repeat 50% 60%, url(../image/header_line.jpg) 50% 30% no-repeat, url(../image/bg_skills.jpg) no-repeat;
+    background: url(../image/znak.png) no-repeat 50% 60%, url(../image/header_line.jpg) 50% 30% no-repeat, url(../image/bg_skills.jpg) no-repeat;
     margin-top: 96px;
     
 }
@@ -189,7 +197,15 @@ height:521px;
 
 .cases input{
  margin-left: 390px;
-    margin-top: 26px;
+margin-top: 26px;
+    width: 202px;
+    height: 46px;
+    font-size: 19px;
+   
+    border: 2px solid #63b5ae;
+    background: #63b5ae;
+    border-radius: 5px;
+    color: #fff;
 }
 
 
@@ -208,11 +224,267 @@ height:521px;
 .cost_calc select{
     width: 891px;
     height: 57px;
+    margin-left: 498px;
    }
+
+
 
 .cost_calc h2{
      font-size: 30px;
     font-weight: bold;
     margin-left: 805px;
     margin-top: 286px;
+}
+
+.cost_calc h3{
+    font-size: 21px;
+    font-weight: bold;
+    padding-top: 53px;
+    padding-bottom: 21px;
+    margin-left: 498px;
+}
+.time_cost{
+   float: left; 
+       
+}
+
+.time_cost h4{
+    margin-left: 498px;
+    margin-top: 59px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.time_cost h5{
+   margin-left: 498px;
+    padding-top: 31px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.statistica h2{
+    margin-top: 100px;
+}
+
+.zero h4{
+    margin-left:1370px;
+    margin-top: 59px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.zero h5{
+ padding-top: 31px;
+margin-left:1370px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.statistica{
+    
+    background: url(../image/kubok.png) no-repeat 76% 60% , url(../image/galka.png) no-repeat 59% 60% , url(../image/brackets.png) no-repeat 44% 60% , url(../image/smile.png) no-repeat 26% 60% , url(../image/header_line.jpg) no-repeat 50% 33%, url(../image/bg_stat.jpg) no-repeat;
+    width: 100%;
+    height: 50%;
+}
+
+.statistica h2{
+    margin-left:810px;
+    padding-top: 105px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.clients h2{
+    margin-top: 85px;
+    margin-left: 497px;
+    font-size: 32px;
+}
+
+.clients h3{
+    margin-top:31px;
+    margin-left: 430px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.workhours h6{
+    margin-left: 200px;
+    margin-top: 190px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.workhours h3{
+  margin-top:31px;
+    margin-left: 158px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.projects h4{
+ margin-left: 200px;
+    margin-top: 190px;
+    font-size: 32px;
+    font-weight: bold;   
+}
+
+.projects h3{
+ margin-top:31px;
+    margin-left: 130px;
+    font-size: 15px;
+    font-weight: bold;   
+}
+
+.nagrad h5{
+ padding-left: 200px;
+    margin-top: 190px;
+    font-size: 32px;
+    font-weight: bold;    
+}
+
+.nagrad h3{
+ margin-top:31px;
+    margin-left: 140px;
+    font-size: 15px;
+    font-weight: bold;   
+}
+
+.clients{
+    float: left;
+}
+
+.workhours{
+    float: left;
+}
+
+.projects{
+    float: left;
+}
+
+.nagrad{
+    float: left;
+}
+
+.feedback h2{
+    margin-left: 900px;
+    font-size: 23px;
+    font-weight: bold;
+    padding-top: 104px;
+}
+
+.feedback p{
+    padding-top: 235px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.feedback{
+    background: url(../image/grey.jpg) no-repeat 51% 83%, url(../image/grey.jpg) no-repeat 50% 83% , url(../image/orange.jpg) no-repeat 49% 83% , url(../image/man.png) no-repeat 50% 47% , url(../image/header_line.jpg) no-repeat 50% 27%;
+}
+
+.feedback h5{
+    padding-top: 39px;
+    text-align: center;
+    padding-bottom: 150px;
+}
+
+.contacts h2{
+    color: #fff;
+    padding-top: 102px;
+    margin-left: 838px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.podval{
+    height: 811px;
+    background: url(../image/trubka.png) no-repeat 65% 33% , url(../image/konvert.png) no-repeat 52% 33% , url(../image/geo.png) no-repeat 38% 33% , url(../image/header_line.jpg) no-repeat 50% 20% , url(../image/bg_footer.jpg) no-repeat;
+}
+
+.address h3{
+    color: #fff;
+    float: left;
+    padding-top: 91px;
+    text-align: center;
+    margin-left: 666px;
+    
+}
+
+.pochta h3{
+ color: #fff;
+    float: left;
+    padding-top: 91px;
+    padding-left: 112px;
+}
+
+.phone h3{
+ color: #fff;
+    float: left;
+    padding-top: 91px;
+    padding-left: 112px;
+}
+
+.contacts p{
+    color: #fff;
+    margin-left: 671px;
+    padding-top: 69px;
+}
+
+.message h3{
+    color: #fff;
+    margin-top: 150px;
+    margin-left: 836px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.name input{
+    float: left;
+    margin-top: 48px;
+    margin-left: 594px;
+    width: 352px;
+    height: 38px;
+}
+
+.email input{
+  margin-top: 48px;
+  width: 352px;
+  height: 38px;
+  margin-left: 26px;  
+}
+ 
+.message textarea{
+    margin-top: 21px;
+    margin-left: 594px;
+} 
+
+.send input{
+    margin-top: 26px;
+   margin-left: 899px;
+    padding-bottom: 14px;
+    padding-top: 14px;
+    padding-left: 21px;
+    padding-right: 21px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #fff;
+    background: none;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.map{
+    background: url(../image/karta.jpg) no-repeat;
+    height: 353px;
+}
+
+.copyright{
+    height: 91px;
+    background: #354051;
+}
+
+.copyright h4{
+    padding-top: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
 }
